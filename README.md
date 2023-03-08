@@ -4,6 +4,7 @@
 * Source code in C# & using Nunit Test Crud basic
 
 ![Login](https://github.com/dotis-flashing/test/blob/main/login.png)
-<a ![Register](https://github.com/dotis-flashing/test/blob/main/registeraccount.png) height=50%",width="50%"/a>
+<img src="https://github.com/dotis-flashing/test/raw/main/registeraccount.png" alt="Register" style="max-width: 50%;">
+<img src="https://github.com/dotis-flashing/test/blob/main/show.png" alt="Show" style="max-width: 50%;">
 ### Connect me via: xuanduy650@gmail.com
 #### Copyright &#169; 2023 dotis-flashing
